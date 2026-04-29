@@ -82,3 +82,6 @@ unused_ports: 填入沒在用的孔（腳本會自動關掉它們，這叫「安
 
 觀察畫面上的 ✅ 符號。如果出現 ❌，去 logs/ 資料夾看對應的 .txt 檔，裡面會記錄 Switch 報錯的內容。
 以及還有 PDF 說明文件
+<img width="1096" height="611" alt="執行示意圖" src="https://github.com/user-attachments/assets/2fb4b17e-c414-45b5-97a2-644c089c07e0" />
+
+
